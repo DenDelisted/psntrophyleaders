@@ -5,8 +5,8 @@
 // @description       upgrade
 // @icon       https://i.imgur.com/M32n7XP.png
 // @match       https://psntrophyleaders.com/*
-// @downloadURL       https://github.com/DenDelisted/psntrophyleaders/raw/main/psntrophyleadersFIX.user.js
-// @updateURL       https://github.com/DenDelisted/psntrophyleaders/raw/main/psntrophyleadersFIX.user.js
+// @downloadURL       https://raw.githubusercontent.com/DenDelisted/psntrophyleaders/refs/heads/main/psntrophyleadersFIX
+// @updateURL       https://raw.githubusercontent.com/DenDelisted/psntrophyleaders/refs/heads/main/psntrophyleadersFIX
 // @grant         GM_addStyle
 // @grant         GM_xmlhttpRequest
 // ==/UserScript==
